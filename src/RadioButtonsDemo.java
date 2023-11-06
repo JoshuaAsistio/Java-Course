@@ -16,8 +16,6 @@ public class RadioButtonsDemo {
 
 }
 
-class MyFrame extends JFrame implements ActionListener {
-	MyFrame() {
 class Frame extends JFrame implements ActionListener {
 	JRadioButton pizzaButton;
 	JRadioButton burgerButton;
